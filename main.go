@@ -50,9 +50,8 @@ func Ready(s *discordgo.Session, r *discordgo.Ready) {
 		Status: "online",
 		Activities: []*discordgo.Activity{
 			{
-				Name: "يسمع ويرى ويسجل كل شئ بدون ما يلاحظه شخص",
-				Type: discordgo.ActivityTypeStreaming,
-				URL:  "https://twitch.tv/1ahmed_s",
+				Name: "With You",
+				Type: discordgo.ActivityTypeGame,
 			},
 		},
 	})
