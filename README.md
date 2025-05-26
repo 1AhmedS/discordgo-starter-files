@@ -1,8 +1,14 @@
 # DiscordGo Starter Files
 
-[![Go Version](https://img.shields.io/badge/Go-1.16%2B-00ADD8?style=for-the-badge&logo=go)](https://golang.org/)
+<div align="center">
+
+[![Go Version](https://img.shields.io/badge/Go-1.16%2B-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-invite-link)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/1AhmedS/discordgo-starter-files?style=for-the-badge&color=blue)](https://github.com/1AhmedS/discordgo-starter-files/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/1AhmedS/discordgo-starter-files?style=for-the-badge&color=blueviolet)](https://github.com/1AhmedS/discordgo-starter-files/network/members)
+
+</div>
 
 A simple and efficient Discord bot starter template built with Go using the [discordgo](https://github.com/bwmarrin/discordgo) library. This project provides a solid foundation for building feature-rich Discord bots.
 
@@ -12,6 +18,18 @@ A simple and efficient Discord bot starter template built with Go using the [dis
 - 🛠️ Easy-to-extend command structure
 - ⚡ Built with Go for high performance
 - 🔄 Slash commands integration
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+</div>
 
 ## 🚀 Getting Started
 
@@ -63,9 +81,13 @@ A simple and efficient Discord bot starter template built with Go using the [dis
 
 ## 💖 Support
 
-If you find this project useful, please consider supporting my work:
+If you find this project useful, please consider supporting my work. Your support helps me continue developing and maintaining this project.
 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/1AhmedS)
+<div align="center">
+
+[![PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/1AhmedS)
+
+</div>
 
 ## 📄 License
 
@@ -81,8 +103,18 @@ For any questions or suggestions, please open an issue on GitHub.
 
 ---
 
+<div align="center">
+
+[![GitHub followers](https://img.shields.io/github/followers/1AhmedS?style=social&logo=github&label=Follow%20%401AhmedS)](https://github.com/1AhmedS)
+[![Twitter Follow](https://img.shields.io/twitter/follow/nsl2j?style=social)](https://x.com/nsl2j)
+
+</div>
+
 <p align="center">
   <a href="https://github.com/1AhmedS">
-    <img src="https://img.shields.io/badge/Follow-@1AhmedS-1DA1F2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/⭐_Star_this_Repo-1DA1F2?style=for-the-badge&logo=github&logoColor=white" alt="Star this repo">
+  </a>
+  <a href="https://github.com/1AhmedS/discordgo-starter-files/fork">
+    <img src="https://img.shields.io/badge/🍴_Fork_this_Repo-1DA1F2?style=for-the-badge&logo=github&logoColor=white" alt="Fork this repo">
   </a>
 </p>
